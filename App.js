@@ -63,7 +63,7 @@ const App = () => {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.heading}>Kevin_list</Text>
+            <Text style={styles.heading}>Geeksforgeeks</Text>
             <Text style={styles.title}>ToDo App</Text>
             <TextInput
                 style={styles.input}
